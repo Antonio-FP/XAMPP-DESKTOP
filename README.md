@@ -11,6 +11,11 @@ Archivo creado para tener un icono en el escritorio para poder lanzar XAMPP. :bl
 
 + Descargas el archivo
 + Una vez esté descargado, lo arrastras al escritorio.
++ Abres el archivo y editas %USER% por tu nombre de usuario (o donde esté instalado XAMPP)
+```
+/home/%USER%/Pictures/Downloads/logo.png --> /home/SMX/Pictures/Downloads/logo.png
+```
+
 + Finalmente doble clic!
 
 ---
