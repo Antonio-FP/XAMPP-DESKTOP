@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=XAMPP
+Icon=/home/admin/Pictures/Downloads/logo.png
+GenericName=XAMPP
+Exec=sudo /opt/lampp/manager-linux-x64.run
+Terminal=true
+Type=Application
+StartupNotify=true
+
