@@ -1,6 +1,5 @@
 [Desktop Entry]
 Name=XAMPP
-Icon=/home/%USER%/Pictures/Downloads/logo.png
 GenericName=XAMPP
 Exec=sudo /opt/lampp/manager-linux-x64.run
 Terminal=true
