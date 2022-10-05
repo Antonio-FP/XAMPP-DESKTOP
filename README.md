@@ -17,6 +17,6 @@ Archivo creado para tener un icono en el escritorio para poder lanzar XAMPP. :bl
 + En caso de querer tenerlo en el menú principal copiáis el archivo en la carpeta
 ```
 /usr/share/applications/
-
+```
 
 ### Enjoy! :confetti_ball:
